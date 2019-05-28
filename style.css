@@ -1,0 +1,141 @@
+#myFace {
+    display: inline;
+    float: left;
+    margin-right: 15px;
+}
+
+.footer {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+.contactFooter {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+.portfolio {
+    font-size: 25px;
+    color: black;
+    padding: 10px;
+}
+
+.portfolioFooter {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+.baseballContainer {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+}
+
+#baseball {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.baseballHeader {
+    text-align: center;
+    font-size: 20px;
+    height: 35px;
+    width: 100%;
+    position: relative;
+    background: #4aaaa5;
+    color: white;
+    line-height: 40px;
+    margin-top: 300px;
+}
+
+.villanovaContainer {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+}
+
+#villanova {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.educationHeader {
+    text-align: center;
+    font-size: 20px;
+    height: 35px;
+    width: 100%;
+    position: relative;
+    background: #4aaaa5;
+    color: white;
+    line-height: 40px;
+    margin-top: 300px;
+}
+
+.stocksContainer {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+}
+
+#stocks {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.interestsHeader {
+    text-align: center;
+    font-size: 20px;
+    height: 35px;
+    width: 100%;
+    position: relative;
+    background: #4aaaa5;
+    color: white;
+    line-height: 40px;
+    margin-top: 300px;
+}
+
+.homeContainer {
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    float: left;
+}
+
+#home {
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.homeHeader {
+    text-align: center;
+    font-size: 20px;
+    height: 35px;
+    width: 100%;
+    position: relative;
+    background: #4aaaa5;
+    color: white;
+    line-height: 40px;
+    margin-top: 300px;
+}
