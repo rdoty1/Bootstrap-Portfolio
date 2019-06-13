@@ -1,7 +1,10 @@
 #myFace {
     display: inline;
     float: left;
-    margin-right: 15px;
+    width: 300px;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .footer {
